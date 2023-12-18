@@ -1,0 +1,23 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+  }
+  .input,
+  .btn {
+    border-radius: 5px;
+  }
+  .btn {
+    margin-left: 5px;
+    width: 110px;
+    border: none;
+    color: rgb(244, 244, 250);
+    background-color: rgb(50, 108, 141);
+    font-size: 18px;
+    height: 30px;
+  }
+  .input {
+    width: 300px;
+    height: 26px;
+    border: 1px solid gray;
+  }
